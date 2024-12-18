@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+flask
+transformers
+torch
+scikit-learn
+opencv-python
+Pillow
